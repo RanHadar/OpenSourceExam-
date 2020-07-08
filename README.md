@@ -1,5 +1,5 @@
 # OpenSourceExam
-This is a new base line for the project, I've created an upload file process then conversting it to PDF using OCR.
+This is a part of Open source course exam, I've created an upload file process then converted the file to PDF using OCR.
 
 
 To Run these files, clone it.
