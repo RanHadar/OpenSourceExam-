@@ -3,7 +3,7 @@ This is a new base line for the project, I've created an upload file process the
 
 
 To Run these files, clone it.
-Run the command - npm install ejs express multer tesseract.js \n
+Run the command - "npm install ejs express multer tesseract.js"
 then to auto update everything with the server, you can run the command
 npm install --save-dev nodemon
 
